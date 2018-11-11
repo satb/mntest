@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mntest
+---
+testFramework: spek
+sourceLanguage: kotlin
